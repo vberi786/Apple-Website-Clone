@@ -1,0 +1,63 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+nav{
+    display: flex;
+    flex-direction:row;
+background-color: rgb(39, 35, 35);
+color:white;
+justify-content:space-evenly;
+font-size:x-large;
+width:100vw;
+height:3rem;
+position:fixed;
+font-family: Arial, Helvetica, sans-serif;
+list-style-type:none;
+}
+.search_icon{
+   padding-top: 0.8rem; 
+}
+li{
+    padding:0.7rem;
+    cursor:pointer;
+    color:white;
+    font-family: 'Hubballi', cursive;
+    font-size: small;
+}
+h1{
+    text-align: center;
+}
+.ip13pro{
+    padding-top:4rem ;
+    text-align: center;
+    margin-bottom: 4rem;
+    margin-bottom: 1rem;
+}
+.oh{
+    font-family:'Courier New', Courier, monospace;
+}
+.one{
+    margin:1rem;
+    text-decoration: none;
+    justify-content:space-evenly;
+}
+a:link{text-decoration: none;
+   
+}
+a:hover{
+    text-decoration: underline;
+}
+.ip13{
+    padding:0;
+    margin-top:0px;
+}
+.material-icons{
+    padding: 1rem;
+}
+.ip13{
+    margin-top: 2rem;
+    color:rgb(225, 69, 225);
+    text-align: center;
+}
