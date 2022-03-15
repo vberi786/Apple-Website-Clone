@@ -34,6 +34,9 @@ h1{
     text-align: center;
     margin-bottom: 4rem;
     margin-bottom: 1rem;
+   
+    
+
 }
 .oh{
     font-family:'Courier New', Courier, monospace;
@@ -42,6 +45,7 @@ h1{
     margin:1rem;
     text-decoration: none;
     justify-content:space-evenly;
+    
 }
 a:link{text-decoration: none;
    
@@ -49,15 +53,96 @@ a:link{text-decoration: none;
 a:hover{
     text-decoration: underline;
 }
-.ip13{
-    padding:0;
-    margin-top:0px;
+.ip13p{
+    margin-left:20rem;
 }
+
 .material-icons{
     padding: 1rem;
 }
 .ip13{
-    margin-top: 2rem;
+    /* margin-top: 0.8rem; */
     color:rgb(225, 69, 225);
     text-align: center;
+    position: relative;
 }
+.i13{
+    margin-top: 3rem;
+    position: relative;
+}
+.wa{
+    text-align: center;
+}
+.s7{
+    padding:2rem;
+    margin-left: 50px;
+    justify-content: center;
+}
+.i13g{
+    justify-content: center;
+    margin-left:20rem;
+}
+.e13{
+background-color:rgb(250, 249, 249);
+text-align: center;
+}
+.watch{
+    background-color:whitesmoke;
+    margin-top: 8px;
+}
+.airpods{
+    background-color: rgb(250, 250, 250);
+    margin-top: 8px;
+}
+.s{
+    color: red;
+}
+.air{
+text-align: center;
+}
+.apple_tv
+{
+   margin-right: 2px;
+     margin-top:8px ;
+}
+.mac{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.disp{
+    justify-content: center;
+}
+.macbook{
+    margin-top:8px;
+    background-color:rgb(254, 254, 254);
+}
+.mstdio{
+    text-align: center;
+}
+.mac_stdio{
+    margin-top: 8px;
+    background-color: rgb(250, 250, 250);
+}
+.Mac{
+    display: flex;
+    justify-content: center;
+}
+.links{
+    display: flex;
+    
+}
+.mstdio{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.comb1{
+    display: flex;
+    justify-content: center;
+}
+
